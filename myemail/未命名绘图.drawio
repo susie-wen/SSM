@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T04:43:06.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="nWwm4ePl23_5WVVV5tol" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T04:52:21.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="WLz-M3zAqLRDCR0LxP8D" version="20.4.1" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1417" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
@@ -316,14 +316,83 @@
         <mxCell id="9QLrrM5D8BOv9_iDG7yw-98" value="Object" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=4;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="870" y="131" width="135" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9QLrrM5D8BOv9_iDG7yw-99" value="老师" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="759.9999999999999" y="1040" width="90" height="60" as="geometry" />
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-99" value="老师" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1040" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9QLrrM5D8BOv9_iDG7yw-100" value="教务人员" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="514.9999999999999" y="1340" width="90" height="60" as="geometry" />
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-100" value="教务人员" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1340" width="175" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9QLrrM5D8BOv9_iDG7yw-101" value="学生" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="275.9999999999999" y="1040" width="90" height="60" as="geometry" />
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-101" value="学生" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1040" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-103" value="修改个人&lt;br&gt;信息" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="1540" width="105" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-104" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9QLrrM5D8BOv9_iDG7yw-103">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="560" y="1469" as="sourcePoint" />
+            <mxPoint x="560" y="1400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="1429" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-105" value="&lt;b&gt;申请修改信息&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="561" y="1460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-106" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9QLrrM5D8BOv9_iDG7yw-99">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="919.9999999999998" y="980" as="sourcePoint" />
+            <mxPoint x="620" y="1590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-108" value="&lt;b&gt;申请修改和需要修改的信息&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-109" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9QLrrM5D8BOv9_iDG7yw-101" target="9QLrrM5D8BOv9_iDG7yw-103">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="815" y="1110.0000000000002" as="sourcePoint" />
+            <mxPoint x="630" y="1600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="362" y="1340" />
+              <mxPoint x="320" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-110" value="&lt;b&gt;申请修改和需要修改的信息&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="363.5" y="1280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-111" value="&lt;font&gt;查看&lt;/font&gt;&lt;font&gt;个人&lt;/font&gt;&lt;br&gt;信息" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="1710" width="105" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-112" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9QLrrM5D8BOv9_iDG7yw-111" target="9QLrrM5D8BOv9_iDG7yw-101">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="115.5" y="1250.0000000000002" as="sourcePoint" />
+            <mxPoint x="261.00000000000614" y="1740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="274" y="1460" />
+              <mxPoint x="73.5" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-113" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9QLrrM5D8BOv9_iDG7yw-111">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1083.5000000000061" y="1760" as="sourcePoint" />
+            <mxPoint x="849.9999999999998" y="1100.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="1460" />
+              <mxPoint x="649.5" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-115" value="&lt;b&gt;教师个人信息&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9QLrrM5D8BOv9_iDG7yw-116" value="&lt;b&gt;学生个人信息&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="645" y="1720" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
